@@ -1,0 +1,11 @@
+from agenda import Agenda
+agenda = Agenda()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Adicionar()
+agenda.Listar()
